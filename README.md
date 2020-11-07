@@ -26,5 +26,6 @@ Interesting Phenomena:
 
 ### Cleaning Script
 ***
-The Clean and Combine jupyter notebook simply takes all csv files in a given directory and concatenates them into a single file.
-It also preforms a single cleaning step of removing any rows of data that don't have values for station name or station id.
+* The Clean and Combine jupyter notebook simply takes all csv files in a given directory and concatenates them into a single file.
+* It also preforms a single cleaning step of removing any rows of data that don't have values for station name or station id.
+* The data files were not included due to their size
