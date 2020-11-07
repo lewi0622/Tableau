@@ -22,3 +22,9 @@ Interesting Phenomena:
 * While the growth seen from 2018 to 2019 didn't continue into 2020, this is most likely due to COVID-19
 * The overal number of rides held relatively steady from 2019 to 2020
   * I would expect the growth to pick back up after COVID-19 abates
+
+
+### Cleaning Script
+***
+The Clean and Combine jupyter notebook simply takes all csv files in a given directory and concatenates them into a single file.
+It also preforms a single cleaning step of removing any rows of data that don't have values for station name or station id.
